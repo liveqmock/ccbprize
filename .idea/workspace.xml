@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="" />
+    <ignored path="reward.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368600827140" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365486147811" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/route/UpSktRouteBuilder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/client/java/UPXml1002001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/startup/Bootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/client/java/UPXml1003001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470305598" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../git-haierrms/src/haierrms/webRoot/css/diytabbar.css" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365493748008" ignored="false" />
+    <file path="/PosServerPipelineFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368437476016" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/microcontainer/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/microcontainer/NettyLoggerConfigurator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/spring/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/spring/beans.xml" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365995500985" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/spring/NettyLoggerConfigurator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/osgi/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/container/osgi/NettyBundleActivator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/DefaultChannelGroup.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/ChannelGroup.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ExecutionHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/MemoryAwareThreadPoolExecutor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/OrderedMemoryAwareThreadPoolExecutor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelUpstreamEventRunnable.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChainedExecutor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelDownstreamEventRunnableFilter.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/OrderedDownstreamThreadPoolExecutor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelUpstreamEventRunnableFilter.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelEventRunnable.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelEventRunnableFilter.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/execution/ChannelDownstreamEventRunnable.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilterRule.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilterRuleList.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpSubnetFilterRule.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilteringHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/CIDR6.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilterRuleHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/CIDR.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilteringHandlerImpl.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpV4Subnet.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/CIDR4.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpV4SubnetFilterRule.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpSubnet.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/OneIpFilterHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpSet.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/IpFilterListener.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ipfilter/PatternRule.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/traffic/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/traffic/GlobalTrafficShapingHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/traffic/TrafficCounter.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/traffic/AbstractTrafficShapingHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/traffic/ChannelTrafficShapingHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/DefaultIdleStateEvent.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/IdleStateEvent.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/IdleStateAwareChannelHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/IdleStateAwareChannelUpstreamHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/IdleState.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/ReadTimeoutHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/TimeoutException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/WriteTimeoutHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/ReadTimeoutException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/WriteTimeoutException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/timeout/IdleStateHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/logging/LoggingHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/logging/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedWriteHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedNioStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedInput.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedFile.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/stream/ChunkedNioFile.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/queue/BlockingReadTimeoutException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/queue/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/queue/BufferedWriteHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/queue/BlockingReadHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CompatibleObjectDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ClassLoaderClassResolver.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CachingClassResolver.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ObjectEncoderOutputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ClassResolver.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ObjectEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ObjectDecoderInputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/SoftReferenceMap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CompactObjectInputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CompatibleObjectEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CompactObjectOutputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/SwitchableInputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/CompatibleObjectDecoderState.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ObjectDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ClassResolvers.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/ReferenceMap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/serialization/WeakReferenceMap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/ZlibUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/ZlibEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/ZlibWrapper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/JdkZlibEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/ZlibDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/compression/CompressionException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/EncoderEmbedder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/CodecEmbedderException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/DecoderEmbedder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/EmbeddedChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/EmbeddedChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/CodecEmbedder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/AbstractCodecEmbedder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/embedder/EmbeddedSocketAddress.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/string/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/string/StringDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/string/StringEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/UnsafeDynamicChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/UnreplayableOperationException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/ReplayError.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/ReplayingDecoderBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/ReplayingDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/replay/VoidEnum.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/oneone/OneToOneStrictEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/oneone/OneToOneEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/oneone/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/oneone/OneToOneDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/base64/Base64Encoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/base64/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/base64/Base64Decoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/base64/Base64Dialect.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/base64/Base64.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksAuthResponseDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksCmdResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksCmdRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksInitRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksAuthRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksCmdRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksInitRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksInitResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/UnknownSocksRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksCommonUtils.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/UnknownSocksMessage.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksMessageEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksAuthResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksAuthRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksInitResponseDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksMessage.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/UnknownSocksResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/socks/SocksCmdResponseDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/DelimiterBasedFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/Delimiters.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/LengthFieldPrepender.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/CorruptedFrameException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/LineBasedFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/FixedLengthFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/TooLongFrameException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/FrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/frame/LengthFieldBasedFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyWindowUpdateFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeadersFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlockJZlibCompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyHeadersFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyStreamStatus.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdySynReplyFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdySynStreamFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySynReplyFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHttpEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyNoOpFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySession.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyGoAwayFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlockZlibDecompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaders.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdySettingsFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyCodecUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySettingsFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyRstStreamFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyRstStreamFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyDataFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlock.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyFrameCodec.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyGoAwayFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlockDecompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHttpResponseStreamIdHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyFrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyHeaderBlock.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyPingFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySessionStatus.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyOrHttpChooser.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyProtocolException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/DefaultSpdyDataFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHttpHeaders.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyWindowUpdateFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyNoOpFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHttpCodec.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySynStreamFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlockZlibCompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdySessionHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHeaderBlockCompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyHttpDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/spdy/SpdyPingFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspResponseStatuses.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspResponseDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspMethods.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspResponseEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspMessageEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspMessageDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspHeaders.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspRequestEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/rtsp/RtspVersions.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/PongWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshaker07.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshaker00.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket07FrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshakerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketHandshakeException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshaker07.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/BinaryWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerProtocolHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshaker08.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket00FrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/UTF8Output.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshaker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket08FrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/PingWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshaker13.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket08FrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket07FrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket13FrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerHandshaker08.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/TextWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/ContinuationWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshaker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket13FrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketVersion.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshaker00.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/UTF8Exception.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketFrameType.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocket00FrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/CloseWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshakerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketClientHandshaker13.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocketx/WebSocketServerProtocolHandshakeHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocket/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocket/WebSocketFrameEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocket/WebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocket/DefaultWebSocketFrame.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/websocket/WebSocketFrameDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/FileUpload.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/InternalAttribute.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/DiskAttribute.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/HttpPostBodyUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/HttpPostRequestEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/DefaultHttpDataFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/MixedAttribute.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/MemoryAttribute.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/MixedFileUpload.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/InterfaceHttpData.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/DiskFileUpload.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/HttpData.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/HttpDataFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/Attribute.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/MemoryFileUpload.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/AbstractHttpData.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/AbstractDiskHttpData.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/HttpPostRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/multipart/AbstractMemoryHttpData.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpMessageEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpContentCompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/Cookie.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/CookieDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpRequestDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpResponseDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/CookieEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpRequestEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpResponseStatus.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpChunk.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpMessageDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultHttpRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpServerCodec.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpChunkAggregator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/CookieHeaderNames.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultHttpResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpHeaders.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpConstants.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/CookieDateFormat.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpVersion.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpContentEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpContentDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultHttpChunk.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpClientCodec.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpResponseEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpContentDecompressor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultCookie.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpMethod.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpChunkTrailer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/QueryStringEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultHttpChunkTrailer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/QueryStringDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpCodecUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/DefaultHttpMessage.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/codec/http/HttpMessage.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ssl/ImmediateExecutor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ssl/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ssl/SslBufferPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ssl/NotSslRecordException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/handler/ssl/SslHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/HttpTunnelingClientSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/HttpTunnelingClientSocketPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/HttpTunnelingSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/HttpTunnelingServlet.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332937781" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/http/HttpTunnelingClientSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioClientSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioServerSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioDatagramWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioServerSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioDatagramChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioServerSocketPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/AbstractOioChannelSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioDatagramChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioDatagramPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioClientSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/AbstractOioWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/AbstractOioChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/Worker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioClientSocketPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DatagramChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/ChannelRunnableWrapper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/oio/OioAcceptedSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/ServerSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/Boss.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioServerBoss.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioClientBossPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalServerChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/SocketReceiveBufferAllocator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/DefaultLocalServerChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/SocketSendBufferPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/DefaultLocalServerChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioWorkerPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalServerChannelSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioClientSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalServerChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/BossPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalClientChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioServerBossPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioAcceptedSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalClientChannelSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioClientBoss.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalAddress.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/DefaultLocalClientChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalChannelRegistry.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/LocalChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/local/DefaultLocalChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/DefaultChannelGroupFuture.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/CombinedIterator.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/ChannelGroupFuture.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioSelector.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioSelectorPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/group/ChannelGroupFutureListener.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/DefaultNioDatagramChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramWorkerPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioClientSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/SelectorUtil.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioServerSocketPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioClientSocketPipelineSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioWorkerPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioChannelSink.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/ProtocolFamilyConverter.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/DefaultNioSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/ShareableWorkerPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioWorker.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/AbstractNioBossPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioServerSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/NioDatagramChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/nio/WorkerPool.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/SocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DefaultSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DatagramChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/SocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/ClientSocketChannelFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/ServerSocketChannel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DefaultDatagramChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DatagramChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/ServerSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/DefaultServerSocketChannelConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/channel/socket/InternetProtocolFamily.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/SlicedChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/DuplicatedChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/CompositeChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/BigEndianHeapChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/DynamicChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBufferOutputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/WrappedChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBufferIndexFinder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ByteBufferBackedChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/HeapChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/DirectChannelBufferFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/AbstractChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/TruncatedChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/AbstractChannelBufferFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ReadOnlyChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/HeapChannelBufferFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBufferInputStream.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/LittleEndianHeapChannelBuffer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBuffers.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/buffer/ChannelBufferFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="/FreemakerTest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1366020177453" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../svn-qdccbloan/source/ccbloan_v4.0/src/credit.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1366090106945" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/server/WebSocketServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/snoop/HttpSnoopClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/html5/WebSocketServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/JdkLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/OsgiLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/JBossLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/Log4JLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/Slf4JLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/CommonsLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/InternalLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/InternalLogLevel.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/JdkLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/OsgiLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/JBossLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/Log4JLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/Slf4JLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/CommonsLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/InternalLoggerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/logging/AbstractInternalLogger.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/bootstrap/Bootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368334341675" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/bootstrap/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/bootstrap/ClientBootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/bootstrap/ServerBootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368334341674" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/bootstrap/ConnectionlessBootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/proxy/HexDumpProxy.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/proxy/HexDumpProxyInboundHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/telnet/TelnetClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/telnet/TelnetServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/telnet/TelnetClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/telnet/TelnetServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/uptime/UptimeClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/NumberEncoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/FactorialClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/FactorialServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/BigIntegerDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/FactorialClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/factorial/FactorialServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094438" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatKeyStore.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatSslContextFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368516898208" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/securechat/SecureChatTrustManagerFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/portunification/PortUnificationServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/file/HttpStaticFileServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/file/HttpStaticFileServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/server/WebSocketServerIndexPage.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094439" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/server/WebSocketServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/upload/HttpUploadServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/upload/HttpUploadServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/echo/EchoClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/upload/HttpUploadClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/html5/CustomTextFrameHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/echo/EchoServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/client/WebSocketClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/snoop/HttpSnoopServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/snoop/HttpSnoopServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/tunnel/LocalEchoServerRegistration.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/upload/HttpUploadClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094440" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/snoop/HttpSnoopClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/client/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/server/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/sslserver/WebSocketSslServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/autobahn/AutobahnServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/autobahn/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/sslserver/WebSocketSslServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/sslserver/package-info.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/sslserver/WebSocketSslServerSslContext.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368516898208" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/autobahn/AutobahnServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
+    <file path="/fragment.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368691688655" ignored="false" />
+    <file path="/MessageDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368657656566" ignored="false" />
+    <file path="/PosClientPipelineFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368437855995" ignored="false" />
+    <file path="/PosClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368437903139" ignored="false" />
+    <file path="/MessageClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368674891791" ignored="false" />
+    <file path="/MessageServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368668295884" ignored="false" />
+    <file path="/HandlerDispatcher.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368600637503" ignored="false" />
+    <file path="/log4j.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368608722802" ignored="false" />
+    <file path="/prjcfg.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368608889819" ignored="false" />
+    <file path="/MessageHeader.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368627596222" ignored="false" />
+    <file path="/PosRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368667630196" ignored="false" />
+    <file path="/TIA1001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368628463909" ignored="false" />
+    <file path="/TOA1001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368629918732" ignored="false" />
+    <file path="/TxnMainProcessor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368698047436" ignored="false" />
+    <file path="/PosRunTimeException.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368659554350" ignored="false" />
+    <file path="/T1001handler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368665735596" ignored="false" />
+    <file path="/TxnProcessor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368667763598" ignored="false" />
+    <file path="/PosResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368667577471" ignored="false" />
+    <file path="/T1001processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368698070527" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/discard/DiscardServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001660" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/com/cp/netty/domain/GameRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001661" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/discard/DiscardClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001661" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/com/cp/netty/domain/GameResponse.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001661" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/discard/DiscardClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001661" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/discard/DiscardServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001661" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/nettyexample/objectecho/ObjectEchoClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001941" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/nettyexample/objectecho/ObjectEchoClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001941" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/nettyexample/objectecho/ObjectEchoServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001941" ignored="false" />
+    <file path="$PROJECT_DIR$/src/java/nettyexample/objectecho/ObjectEchoServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001941" ignored="false" />
+    <file path="/ProtocolUtils.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368672332820" ignored="false" />
+    <file path="/DatabaseHelper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368683471182" ignored="false" />
+    <file path="/DBHelper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368683723423" ignored="false" />
+    <file path="/JdbcTemplate.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368685486239" ignored="false" />
+    <file path="/StatementCallback.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368685166304" ignored="false" />
+    <file path="/T1002processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368698267423" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="reward" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="T1001processor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="11" selection-start="572" selection-end="622" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1017#1033#0" expanded="true" />
+                <element signature="e#2521#3526#0" expanded="true" />
+                <element signature="e#3515#3516#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PosClient.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PosClientPipelineFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TxnProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="33" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T1002processor.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1002processor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="50" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.59107804">
+              <folding>
+                <element signature="e#2376#3024#0" expanded="true" />
+                <element signature="e#3013#3014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageClientHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="93" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prjcfg.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JdbcTemplate.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatementCallback.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/StatementCallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="60" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TxnMainProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="42" selection-start="441" selection-end="452" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/util/MD5Helper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/util/ProtocolUtils.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/util/ProtocolHelper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/ProtocolHelper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" />
+        <option value="$PROJECT_DIR$/src/java/octopus/server/backstage/app/PosHandler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/DatabaseHelper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/DatabasePoolHelper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/StatementCallback.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/processor/T1001processor.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/processor/T1002processor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jdbctemplate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lib/commons-collections-3.1.jar!/" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="prize.processor" />
+      <recent name="prize.util" />
+      <recent name="prize" />
+      <recent name="prize.handler" />
+      <recent name="octopus.backstage.app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\prize\domain\base" />
+      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\resources" />
+      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\octopus\front\app\app10001\codec" />
+      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java" />
+      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\nettyexample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PosClient">
+    <configuration default="false" name="ObjectEchoClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nettyexample.objectecho.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="nettyexample.objectecho.ObjectEchoClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 8080" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="reward" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocalTimeServer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.jboss.netty.example.localtime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.jboss.netty.example.localtime.LocalTimeServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="reward" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LocalTimeClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.jboss.netty.example.localtime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.jboss.netty.example.localtime.LocalTimeClient" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 8080 America/New_York Asia/Seoul" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="reward" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PosServer" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="prize.PosServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="reward" />
+      <envs />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PosClient" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="prize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="prize.client.PosClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="reward" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ObjectEchoClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LocalTimeServer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LocalTimeClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PosServer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PosClient" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.PosClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PosServer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LocalTimeClient" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LocalTimeServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LocalTimeServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="" />
+      <created>1365257030571</created>
+      <updated>1365257030571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4108911" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4108911" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25911853" sideWeight="0.67161715" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="47" selection-start="340" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServerPipelineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DatabasePoolHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="25" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="59" selection-start="324" selection-end="392" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/StatementCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="60" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.472/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="52" selection-start="280" selection-end="280" vertical-scroll-proportion="0.33460075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="93" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="572" selection-end="622" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1017#1033#0" expanded="true" />
+            <element signature="e#2521#3526#0" expanded="true" />
+            <element signature="e#3515#3516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="42" selection-start="441" selection-end="452" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1002processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="50" selection-start="2231" selection-end="2231" vertical-scroll-proportion="0.59107804">
+          <folding>
+            <element signature="e#2376#3024#0" expanded="true" />
+            <element signature="e#3013#3014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ActiveMQ-5.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6 .0_34</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>reward</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
