@@ -45,12 +45,13 @@ public class T1001processor extends TxnMainProcessor {
             } catch (UnsupportedEncodingException e) {
                 logger.error("±àÂë´íÎó¡£");
             }
-            String mac = MD5Helper.getMD5String(responseBody + new SimpleDateFormat("yyyyMMdd").format(new Date()) + clientUserId);
+            String currDate = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
+            String mac = MD5Helper.getMD5String(responseBody + currDate + clientUserId);
             String message = dataLength
                     + posId
                     + txnCode
                     + errCode
-                    + new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())
+                    + currDate
                     + mac
                     + responseBody;
             response.setResponseMessage(message);
@@ -63,7 +64,7 @@ public class T1001processor extends TxnMainProcessor {
         String currDate = new SimpleDateFormat("yyyy-MM-dd").format(new Date());
         final String sql = String.format("select act_no,act_name from B_M_ACT_POS_AWARD where act_begin_date <= '%s' and act_end_date >= '%s'", currDate, currDate);
 
-        return (String) jdbcTemplate.executeQuery(new StatementCallback() {
+        return (String) jdbcTemplate.execute(new StatementCallback() {
             @Override
             public Object doInStatement(Statement stmt) throws SQLException {
                 String result = "";
@@ -75,7 +76,7 @@ public class T1001processor extends TxnMainProcessor {
                         String act_name = StringUtils.rightPad(rs.getString("act_name"), LEN_EVENT_NAME, " ");
                         byte[] bActName = act_name.getBytes("GBK");
                         if (bActName.length > LEN_EVENT_NAME) {
-                            act_name = new String(bActName, 0 , LEN_EVENT_NAME);
+                            act_name = new String(bActName, 0, LEN_EVENT_NAME);
                         }
                         result += rs.getString("act_no") + act_name;
                     }

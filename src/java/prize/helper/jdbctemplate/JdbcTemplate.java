@@ -15,7 +15,7 @@ import java.sql.Statement;
 public class JdbcTemplate {
     public static Logger logger = Logger.getLogger(JdbcTemplate.class);
 
-    public final Object executeQuery(StatementCallback callback) throws SQLException {
+    public final Object execute(StatementCallback callback) throws SQLException {
         Connection con = DBHelper.getConnection();
         Statement stmt = null;
         try {

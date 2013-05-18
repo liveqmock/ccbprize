@@ -12,27 +12,25 @@ import java.util.Date;
  * Date: 13-4-13
  */
 @ChannelPipelineCoverage("all")
-public class MessageClientHandler extends SimpleChannelUpstreamHandler {
-    private static final Logger logger = Logger.getLogger(MessageClientHandler.class);
+public class MessageClientT1001Handler extends SimpleChannelUpstreamHandler {
+    private static final Logger logger = Logger.getLogger(MessageClientT1001Handler.class);
 
 
     @Override
-    public void channelConnected(
-            ChannelHandlerContext ctx, ChannelStateEvent e) {
+    public void channelConnected(ChannelHandlerContext ctx, ChannelStateEvent e) {
         String message = "92    " + "12345678901234567890123456789012"
-                + "1001"
+                + "1009"
                 + "9999"
                 + new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())
                 + "MAC12345678901234567890123456789";
 
         e.getChannel().write(message);
-        logger.info("客户端发送报文：" + message);
+        logger.info("客户端发送报文 T1001：" + message);
     }
 
     @Override
-    public void messageReceived(
-            ChannelHandlerContext ctx, MessageEvent e) {
-        logger.info("客户端收到报文：" + e.getMessage());
+    public void messageReceived(ChannelHandlerContext ctx, MessageEvent e) {
+        logger.info("客户端收到报文 T1001：" + e.getMessage());
         try {
             Thread.sleep(1000*10);
         } catch (Exception ex) {
@@ -42,8 +40,7 @@ public class MessageClientHandler extends SimpleChannelUpstreamHandler {
     }
 
     @Override
-    public void exceptionCaught(
-            ChannelHandlerContext ctx, ExceptionEvent e) {
+    public void exceptionCaught(ChannelHandlerContext ctx, ExceptionEvent e) {
         logger.error("Unexpected exception from downstream.", e.getCause());
         e.getChannel().close();
     }

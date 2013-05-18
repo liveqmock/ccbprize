@@ -1,8 +1,13 @@
 package prize;
 
+import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 import org.jboss.netty.channel.*;
+import prize.helper.MD5Helper;
 import prize.processor.TxnProcessor;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 
 /**
@@ -11,44 +16,43 @@ import prize.processor.TxnProcessor;
  * Date: 13-4-13
  */
 @ChannelPipelineCoverage("all")
-public class MessageServerHandler extends SimpleChannelUpstreamHandler {
-    private static final Logger logger = Logger.getLogger(
-            MessageServerHandler.class.getName());
+public class MessageServerHandler extends SimpleChannelUpstreamHandler implements MessageConfig{
+    private static final Logger logger = Logger.getLogger(MessageServerHandler.class);
 
     @Override
-    public void messageReceived(
-            ChannelHandlerContext ctx, MessageEvent e) {
+    public void messageReceived(ChannelHandlerContext ctx, MessageEvent e) {
         if (!(e.getMessage() instanceof String)) {
             return;
         }
         String requestMessage = (String) e.getMessage();
         String responseMessage = "";
-        System.err.println("requestMessage:" + requestMessage);
-
-        /*
-        1.MACÊ†°È™å
-        2.Ëé∑Âèñ‰∫§ÊòìÁ†Å
-        3.Ë∞ÉÁî®‰∏öÂä°ÈÄªËæëÂ§ÑÁêÜÁ®ãÂ∫è
-         */
-
-        String mac = null;
-        String txnCode = requestMessage.substring(0 + 6 + 32, 0 + 6 + 32 + 4);
+        logger.info("∑˛ŒÒ∆˜ ’µΩ±®Œƒ£∫" + requestMessage);
 
         try {
+            //1.MAC–£—È
+
+            //2.ªÒ»°Ωª“◊¬Î
+            String txnCode = requestMessage.substring(0 + 6 + 32, 0 + 6 + 32 + 4);
+
+            //3.µ˜”√“µŒÒ¬ﬂº≠¥¶¿Ì≥Ã–Ú
             Class clazz = Class.forName("prize.processor.T" + txnCode + "processor");
             TxnProcessor processor = (TxnProcessor)clazz.newInstance();
+
             PosRequest request = new PosRequest();
             request.setTxnCode(txnCode);
             request.setRequestMessage(requestMessage);
+
             PosResponse response = new PosResponse();
+
             processor.execute(request,response);
             responseMessage = response.getResponseMessage();
-        } catch (ClassNotFoundException e1) {
-            logger.error("The txn processor class not found.");
-        } catch (Exception e1) {
-            logger.error("Get  txn processor instance error.");
+        }catch (Exception ex) {
+            logger.error("Get  txn processor instance error.", ex);
+            responseMessage = getErrResponse("1000");
         }
+
         e.getChannel().write(responseMessage);
+        logger.info("∑˛ŒÒ∆˜∑µªÿ±®Œƒ£∫" + responseMessage);
     }
 
     @Override
@@ -56,5 +60,18 @@ public class MessageServerHandler extends SimpleChannelUpstreamHandler {
             ChannelHandlerContext ctx, ExceptionEvent e) {
         logger.error("Unexpected exception from downstream.", e.getCause());
         e.getChannel().close();
+    }
+
+    private String getErrResponse(String errCode) {
+        String dataLength = StringUtils.rightPad(("" + LEN_MSG_HEADER ), 6, " ");
+        String currDate = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
+        String mac = MD5Helper.getMD5String("" + currDate + clientUserId);
+        String message =  dataLength
+                + StringUtils.rightPad("", LEN_MSG_POSNO, " ")
+                + "9999"
+                + errCode
+                + currDate
+                + mac;
+        return message;
     }
 }

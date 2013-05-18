@@ -17,7 +17,9 @@ public class PosClientPipelineFactory implements ChannelPipelineFactory {
 
         pipeline.addLast("decoder", new MessageDecoder());
         pipeline.addLast("encoder", new MessageEncoder());
-        pipeline.addLast("handler", new MessageClientHandler());
+//        pipeline.addLast("T1001handler", new MessageClientT1001Handler());
+//        pipeline.addLast("T1002handler", new MessageClientT1002Handler());
+        pipeline.addLast("T2001handler", new MessageClientT2001Handler());
 
         return pipeline;
     }
