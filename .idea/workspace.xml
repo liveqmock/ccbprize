@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/logback.xml" />
-      <change type="DELETED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\java\test\FreemakerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources\log4j.properties" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/PosServer.java" afterPath="$PROJECT_DIR$/src/java/prize/PosServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" afterPath="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/prjcfg.properties" afterPath="$PROJECT_DIR$/src/resources/prjcfg.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/script/cpappend.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/script/startup.bat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\reward.iml" afterPath="$PROJECT_DIR$/ccbprize.iml" />
     </list>
     <ignored path="reward.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369042421365" ignored="false" />
-    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369013493785" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369042603213" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/route/UpSktRouteBuilder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/client/java/UPXml1002001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/startup/Bootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
@@ -673,22 +656,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NioServerSocketChannelFactory.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NioServerSocketChannelFactory.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="-1.8165939">
+            <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JdbcTemplate.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
+      <file leaf-file-name="startup.bat" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resources/script/startup.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="35" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1039,6 +1020,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1082,11 +1085,11 @@
       <recent name="prize.handler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources\script" />
       <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\prize\domain\base" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\resources" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\octopus\front\app\app10001\codec" />
-      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources" />
@@ -1286,7 +1289,11 @@
       <created>1368884995801</created>
       <updated>1368884995801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="...">
+      <created>1369042633798</created>
+      <updated>1369042633798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1311,14 +1318,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5186441" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5186441" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4108911" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1407,13 +1414,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="54" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
@@ -1524,7 +1524,14 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="-1.8165939">
+        <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/script/startup.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
