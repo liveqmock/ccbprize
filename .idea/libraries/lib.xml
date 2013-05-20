@@ -8,7 +8,6 @@
       <root url="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/commons-dbcp.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/spring-jdbc-3.2.2.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../lib/log4j-1.2.14.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/protobuf-java-2.4.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/spring-beans-3.2.2.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/commons-collections-3.1.jar!/" />
@@ -16,10 +15,13 @@
       <root url="jar://$PROJECT_DIR$/../../../lib/spring-context-3.2.2.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/ojdbc6.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/spring-core-3.2.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/logback-access-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../lib/logback-core-1.0.13.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../lib/log4j-1.2.14-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/" />
     </SOURCES>
   </library>

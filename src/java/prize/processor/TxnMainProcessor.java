@@ -1,7 +1,8 @@
 package prize.processor;
 
 import org.apache.commons.lang.StringUtils;
-import org.apache.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import prize.MessageConfig;
 import prize.PosRequest;
 import prize.PosResponse;
@@ -14,7 +15,7 @@ import java.util.Map;
 
 
 public abstract class TxnMainProcessor implements TxnProcessor, MessageConfig {
-    public Logger logger = Logger.getLogger(this.getClass());
+    public Logger logger = LoggerFactory.getLogger(this.getClass());
 
 	public abstract void execute(PosRequest request, PosResponse response, Map<String, Object> model) throws TxnRunTimeException;
 

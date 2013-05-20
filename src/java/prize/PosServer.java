@@ -2,7 +2,6 @@ package prize;
 
 import org.jboss.netty.bootstrap.ServerBootstrap;
 import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
-import prize.helper.ProjectConfigManager;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -37,8 +36,7 @@ public class PosServer {
         Properties prop = new Properties();
         InputStream fis = PosServer.class.getClassLoader().getResourceAsStream("prjcfg.properties");
         prop.load(fis);
-        prop.list(System.out);
-
-        System.out.println("===" + ProjectConfigManager.getInstance().getProperty("prj_root_dir"));
+        //prop.list(System.out);
+        //System.out.println("===" + ProjectConfigManager.getInstance().getProperty("prj_root_dir"));
     }
 }

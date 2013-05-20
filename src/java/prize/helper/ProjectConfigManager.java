@@ -1,6 +1,7 @@
 package prize.helper;
 
-import org.apache.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -12,7 +13,7 @@ import java.util.Properties;
  * User: zhanrui
  */
 public class ProjectConfigManager {
-    public static final Logger logger = Logger.getLogger(ProjectConfigManager.class);
+    public static final Logger logger = LoggerFactory.getLogger(ProjectConfigManager.class);
 
     private static final String PROP_FILE_NAME = "prjcfg.properties";
     private File propFile = null;

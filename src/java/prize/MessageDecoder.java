@@ -1,10 +1,11 @@
 package prize;
 
-import org.apache.log4j.Logger;
 import org.jboss.netty.buffer.ChannelBuffer;
 import org.jboss.netty.channel.Channel;
 import org.jboss.netty.channel.ChannelHandlerContext;
 import org.jboss.netty.handler.codec.frame.FrameDecoder;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * Created with IntelliJ IDEA.
@@ -12,7 +13,7 @@ import org.jboss.netty.handler.codec.frame.FrameDecoder;
  * Date: 13-4-13
  */
 public class MessageDecoder  extends FrameDecoder {
-    private static final Logger logger = Logger.getLogger(MessageDecoder.class);
+    private static final Logger logger = LoggerFactory.getLogger(MessageDecoder.class);
     @Override
     protected Object decode(ChannelHandlerContext ctx, Channel channel, ChannelBuffer buffer) throws Exception {
         if (buffer.readableBytes() < 6) {

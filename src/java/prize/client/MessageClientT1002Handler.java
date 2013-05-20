@@ -1,7 +1,8 @@
 package prize.client;
 
-import org.apache.log4j.Logger;
 import org.jboss.netty.channel.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -13,7 +14,7 @@ import java.util.Date;
  */
 @ChannelPipelineCoverage("all")
 public class MessageClientT1002Handler extends SimpleChannelUpstreamHandler {
-    private static final Logger logger = Logger.getLogger(MessageClientT1002Handler.class);
+    private static final Logger logger = LoggerFactory.getLogger(MessageClientT1002Handler.class);
 
 
     @Override

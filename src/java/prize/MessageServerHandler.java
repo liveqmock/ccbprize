@@ -1,8 +1,9 @@
 package prize;
 
 import org.apache.commons.lang.StringUtils;
-import org.apache.log4j.Logger;
 import org.jboss.netty.channel.*;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import prize.helper.MD5Helper;
 import prize.processor.TxnProcessor;
 
@@ -17,7 +18,7 @@ import java.util.Date;
  */
 @ChannelPipelineCoverage("all")
 public class MessageServerHandler extends SimpleChannelUpstreamHandler implements MessageConfig{
-    private static final Logger logger = Logger.getLogger(MessageServerHandler.class);
+    private static final Logger logger = LoggerFactory.getLogger(MessageServerHandler.class);
 
     @Override
     public void messageReceived(ChannelHandlerContext ctx, MessageEvent e) {
@@ -33,6 +34,7 @@ public class MessageServerHandler extends SimpleChannelUpstreamHandler implement
 
             //2.获取交易码
             String txnCode = requestMessage.substring(0 + 6 + 32, 0 + 6 + 32 + 4);
+            logger.info("服务器收到报文，交易号:" + txnCode);
 
             //3.调用业务逻辑处理程序
             Class clazz = Class.forName("prize.processor.T" + txnCode + "processor");

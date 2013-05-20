@@ -2,32 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/helper/DataSourceHolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/MessageConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/processor/T2001processor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/logback.xml" />
+      <change type="DELETED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\java\test\FreemakerTest.java" afterPath="" />
+      <change type="DELETED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources\log4j.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" afterPath="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/PosServer.java" afterPath="$PROJECT_DIR$/src/java/prize/PosServer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/processor/T1001processor.java" afterPath="$PROJECT_DIR$/src/java/prize/processor/T1001processor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/processor/T1002processor.java" afterPath="$PROJECT_DIR$/src/java/prize/processor/T1002processor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" afterPath="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" afterPath="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/prjcfg.properties" afterPath="$PROJECT_DIR$/src/resources/prjcfg.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\java\prize\client\MessageClientHandler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
+      <change type="MOVED" beforePath="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\reward.iml" afterPath="$PROJECT_DIR$/ccbprize.iml" />
     </list>
     <ignored path="reward.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368846589301" ignored="false" />
-    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368884949537" ignored="false" />
+    <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369042421365" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369013493785" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/route/UpSktRouteBuilder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/client/java/UPXml1002001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/startup/Bootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
@@ -540,15 +539,15 @@
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/autobahn/AutobahnServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
-    <file path="/fragment.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368767654624" ignored="false" />
+    <file path="/fragment.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369040260463" ignored="false" />
     <file path="/MessageDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368759944022" ignored="false" />
     <file path="/PosClientPipelineFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368755121305" ignored="false" />
     <file path="/PosClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368437903139" ignored="false" />
     <file path="/MessageClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368757396799" ignored="false" />
-    <file path="/MessageServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368762524324" ignored="false" />
+    <file path="/MessageServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369034553966" ignored="false" />
     <file path="/HandlerDispatcher.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368600637503" ignored="false" />
-    <file path="/log4j.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368608722802" ignored="false" />
-    <file path="/prjcfg.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368775420517" ignored="false" />
+    <file path="/log4j.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369014441915" ignored="false" />
+    <file path="/prjcfg.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369027298784" ignored="false" />
     <file path="/MessageHeader.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368627596222" ignored="false" />
     <file path="/PosRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368667630196" ignored="false" />
     <file path="/TIA1001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368628463909" ignored="false" />
@@ -571,7 +570,7 @@
     <file path="$PROJECT_DIR$/src/java/nettyexample/objectecho/ObjectEchoServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368670001941" ignored="false" />
     <file path="/ProtocolUtils.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368672332820" ignored="false" />
     <file path="/DatabaseHelper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368683471182" ignored="false" />
-    <file path="/DBHelper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368683723423" ignored="false" />
+    <file path="/DBHelper.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369027343846" ignored="false" />
     <file path="/JdbcTemplate.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368685486239" ignored="false" />
     <file path="/StatementCallback.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368685166304" ignored="false" />
     <file path="/T1002processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368758629283" ignored="false" />
@@ -580,6 +579,8 @@
     <file path="/T2001processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368773758747" ignored="false" />
     <file path="/TTTT.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368840031531" ignored="false" />
     <file path="/PrjConfigManager.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368847716430" ignored="false" />
+    <file path="/MessageClientT2001Handler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369018521014" ignored="false" />
+    <file path="/logback.xml" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369033190485" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -641,20 +642,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DBHelper.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DBHelper.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DBHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="65" selection-start="895" selection-end="895" vertical-scroll-proportion="0.65154266">
-              <folding />
+            <state line="13" column="3" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MD5Helper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/MD5Helper.java">
+      <file leaf-file-name="ProjectConfigManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="14" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -662,7 +667,16 @@
       <file leaf-file-name="PosServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="35" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
+            <state line="24" column="33" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NioServerSocketChannelFactory.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="-1.8165939">
               <folding />
             </state>
           </provider>
@@ -671,16 +685,7 @@
       <file leaf-file-name="JdbcTemplate.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectConfigManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+            <state line="43" column="35" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -691,34 +696,45 @@
       <file leaf-file-name="prjcfg.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
+            <state line="1" column="12" selection-start="7" selection-end="19" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StatementCallback.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/StatementCallback.java">
+      <file leaf-file-name="logback.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/logback.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+            <state line="23" column="24" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabasePoolHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DatabasePoolHelper.java">
+      <file leaf-file-name="T1001processor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
+            <state line="21" column="13" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataSourceHolder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DataSourceHolder.java">
+      <file leaf-file-name="TxnMainProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+            <state line="16" column="22" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#757#773#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageServerHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/MessageServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="48" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -742,30 +758,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/helper/DataSourceHolder.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/MessageConfig.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/processor/T1002processor.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/processor/T2001processor.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/helper/TTTT.java" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/PrjCfgManager.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/PosServer.java" />
-        <option value="$PROJECT_DIR$/src/resources/prjcfg.properties" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/PrjConfigManager.java" />
+        <option value="$PROJECT_DIR$/src/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
+        <option value="$PROJECT_DIR$/src/resources/prjcfg.properties" />
+        <option value="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" />
+        <option value="$PROJECT_DIR$/src/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/PosServer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -793,8 +807,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -871,7 +885,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="handler" />
+              <option name="myItemId" value="channel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -905,11 +919,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="handler" />
+              <option name="myItemId" value="channel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codec" />
+              <option name="myItemId" value="socket" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -943,15 +957,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="handler" />
+              <option name="myItemId" value="channel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codec" />
+              <option name="myItemId" value="socket" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oneone" />
+              <option name="myItemId" value="nio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1028,134 +1042,8 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="prize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="processor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdbctemplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1165,25 +1053,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lib/spring-core-3.2.2.RELEASE.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lib/logback-core-1.0.13.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1194,11 +1082,15 @@
       <recent name="prize.handler" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\prize\domain\base" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\resources" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\octopus\front\app\app10001\codec" />
       <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java" />
-      <recent name="E:\WorkSpace\git-ccbreward\src\reward\src\java\nettyexample" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources" />
+      <recent name="E:\WorkSpace\git-ccbposprize\src\ccbprize\ccbprize\src\resources\etc" />
     </key>
   </component>
   <component name="RunManager" selected="Application.PosClient">
@@ -1316,15 +1208,15 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="prize.client.PosClient" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="reward" />
+      <module name="ccbprize" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1358,8 +1250,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PosServer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PosClient" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PosClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PosServer" />
         <item index="2" class="java.lang.String" itemvalue="Application.LocalTimeClient" />
         <item index="3" class="java.lang.String" itemvalue="Application.LocalTimeServer" />
         <item index="4" class="java.lang.String" itemvalue="Application.LocalTimeServer" />
@@ -1390,6 +1282,11 @@
       <created>1365257030571</created>
       <updated>1365257030571</updated>
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1368884995801</created>
+      <updated>1368884995801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1413,28 +1310,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.519802" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5186441" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4108911" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32711864" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25838414" sideWeight="0.48019803" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26" sideWeight="0.48135594" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1449,8 +1346,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -1486,7 +1383,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1500,6 +1397,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1511,119 +1409,122 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+        <state line="17" column="54" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="63" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T2001processor.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="30" selection-start="3819" selection-end="3819" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#2143#3843#0" expanded="true" />
-            <element signature="e#3832#3833#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+        <state line="16" column="28" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="20" selection-start="401" selection-end="463" vertical-scroll-proportion="0.0">
+        <state line="18" column="31" selection-start="561" selection-end="567" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProtocolHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
+        <state line="4" column="13" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/StatementCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DatabasePoolHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/MD5Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DataSourceHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+        <state line="43" column="35" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="35" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/temp/tomcat jdbcpool/src/main/java/org/apache/tomcat/jdbc/pool/jmx/ConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#22672#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DBHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="65" selection-start="895" selection-end="895" vertical-scroll-proportion="0.65154266">
+        <state line="13" column="3" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="7" selection-end="19" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.459/MyApp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#757#773#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="48" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="33" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="-1.8165939">
           <folding />
         </state>
       </provider>
@@ -1681,12 +1582,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>reward</last-edited>
+          <last-edited>ccbprize</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
