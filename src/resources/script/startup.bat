@@ -7,7 +7,7 @@
 
     SET classpath=%CLASSPATH%;%PRJ_HOME%\apps\ccbprize
 
-    FOR %%i IN (%PRJPATH%\lib\*.*) do call %PRJ_HOME%\bin\cpappend.bat %%i
+    FOR %%i IN (%PRJ_HOME%\lib\*.*) do call %PRJ_HOME%\bin\cpappend.bat %%i
 
     SET CLASSPATH
 

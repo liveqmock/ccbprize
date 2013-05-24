@@ -5,6 +5,7 @@ import org.jboss.netty.channel.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import prize.helper.MD5Helper;
+import prize.helper.ProjectConfigManager;
 import prize.processor.TxnProcessor;
 
 import java.text.SimpleDateFormat;
@@ -30,7 +31,11 @@ public class MessageServerHandler extends SimpleChannelUpstreamHandler implement
         logger.info("服务器收到报文：" + requestMessage);
 
         try {
-            //1.MAC校验
+            //1.MAC校验  实时获取是否校验标志，方便更新
+            String macFlag = (String) ProjectConfigManager.getInstance().getProperty("posserver_mac_flag");
+            if (macFlag != null && "1".equals(macFlag)) {//需校验
+                //TODO
+            }
 
             //2.获取交易码
             String txnCode = requestMessage.substring(0 + 6 + 32, 0 + 6 + 32 + 4);

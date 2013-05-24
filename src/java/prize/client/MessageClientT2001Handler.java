@@ -36,11 +36,12 @@ public class MessageClientT2001Handler extends SimpleChannelUpstreamHandler {
     public void messageReceived(ChannelHandlerContext ctx, MessageEvent e) {
         logger.info("客户端收到报文 T2001：" + e.getMessage());
         try {
-            Thread.sleep(1000*10);
+            Thread.sleep(1000*1);
         } catch (Exception ex) {
             ex.printStackTrace();
         }
         //e.getChannel().write(e.getMessage() + "" + new Date());
+        e.getChannel().close();
     }
 
     @Override

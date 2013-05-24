@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/script/cpappend.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/script/startup.bat" />
+    <list default="true" id="d8949b56-bfa5-4f42-a101-75f4e65b6d68" name="Default" comment="...">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" afterPath="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageConfig.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" afterPath="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/PosClient.java" afterPath="$PROJECT_DIR$/src/java/prize/client/PosClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" afterPath="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/prize/PosServer.java" afterPath="$PROJECT_DIR$/src/java/prize/PosServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/prjcfg.properties" afterPath="$PROJECT_DIR$/src/resources/prjcfg.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resources/script/startup.bat" afterPath="$PROJECT_DIR$/src/resources/script/startup.bat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="reward.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369042421365" ignored="false" />
-    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369042603213" ignored="false" />
+    <file path="/PosServer.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369126915873" ignored="false" />
+    <file path="/Dummy.txt" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279037794" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/route/UpSktRouteBuilder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/client/java/UPXml1002001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
     <file path="$PROJECT_DIR$/../../../svn-fcdep/src/fbi-fcdep/cameldep/java/org/fbi/dep/startup/Bootstrap.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1365470081378" ignored="false" />
@@ -522,15 +529,15 @@
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/http/websocketx/autobahn/AutobahnServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
     <file path="$PROJECT_DIR$/src/java/org/jboss/netty/example/qotm/QuoteOfTheMomentClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368332094441" ignored="false" />
-    <file path="/fragment.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369040260463" ignored="false" />
+    <file path="/fragment.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369192373607" ignored="false" />
     <file path="/MessageDecoder.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368759944022" ignored="false" />
     <file path="/PosClientPipelineFactory.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368755121305" ignored="false" />
-    <file path="/PosClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368437903139" ignored="false" />
+    <file path="/PosClient.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369226406317" ignored="false" />
     <file path="/MessageClientHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368757396799" ignored="false" />
-    <file path="/MessageServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369034553966" ignored="false" />
+    <file path="/MessageServerHandler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369125896901" ignored="false" />
     <file path="/HandlerDispatcher.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368600637503" ignored="false" />
     <file path="/log4j.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369014441915" ignored="false" />
-    <file path="/prjcfg.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369027298784" ignored="false" />
+    <file path="/prjcfg.properties" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369125535989" ignored="false" />
     <file path="/MessageHeader.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368627596222" ignored="false" />
     <file path="/PosRequest.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368667630196" ignored="false" />
     <file path="/TIA1001.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368628463909" ignored="false" />
@@ -558,12 +565,82 @@
     <file path="/StatementCallback.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368685166304" ignored="false" />
     <file path="/T1002processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368758629283" ignored="false" />
     <file path="/MessageClientT1002Handler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368757486682" ignored="false" />
-    <file path="/MessageConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368762604728" ignored="false" />
+    <file path="/MessageConfig.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369125626224" ignored="false" />
     <file path="/T2001processor.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368773758747" ignored="false" />
     <file path="/TTTT.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368840031531" ignored="false" />
     <file path="/PrjConfigManager.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1368847716430" ignored="false" />
-    <file path="/MessageClientT2001Handler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369018521014" ignored="false" />
+    <file path="/MessageClientT2001Handler.java" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369189565873" ignored="false" />
     <file path="/logback.xml" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369033190485" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-jsptaglibrary_2_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-common_3_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/connector_1_6.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_2_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_6.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JBoss/lib/jbossIntegration.jar!/descriptors/jboss-deployment-structure-1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JBoss/lib/jbossIntegration.jar!/descriptors/jboss-deployment-structure-1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-fragment_3_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/relaxng.rng" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-jsptaglibrary_2_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_6.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044244" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_1_3.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_3_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema-instance.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/persistence.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/XMLSchema.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_client_1_3.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jspxml.tld" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jspxml.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/j2ee_web_services_client_1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-facesconfig_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/spring-form.tld" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/orm_1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_3_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_6.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/spring.tld" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application-client_1_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044245" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/orm_2_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/persistence_2_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/web-app_3_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/j2ee_1_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/jsp_2_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/connector_1_5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/html5/xhtml5.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-ejb-jar_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/catalog.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-ejb-jar_1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/application_1_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-web-app_1_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/ejb-jar_2_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-application_1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-web-app_1_3.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-frameset.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-rdbms-jar_1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-strict.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-application_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-application_1_4.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-ejb-jar_1_3.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044246" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xinclude.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-web-app_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xslt-2_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-rdbms-jar_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-application_1_3.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v12/weblogic-web-app_1_1.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xml.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v10/weblogic-ejb-jar_1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v10/weblogic-web-app_1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v10/weblogic-rdbms-jar_1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/weblogicIntegration/lib/weblogicIntegration.jar!/res/v10/weblogic-application_1_0.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/JavaEE/lib/javaee-impl.jar!/standardSchemas/javaee_web_services_client_1_2.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.xsd" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369279044247" ignored="false" />
+    <file path="/a.dummy" changelist="d8949b56-bfa5-4f42-a101-75f4e65b6d68" time="1369364098513" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -614,7 +691,53 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/java/prize/PosServer.java" line="24" class="prize.PosServer" package="prize">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/Channels.java" line="108" class="org.jboss.netty.channel.Channels$1" package="org.jboss.netty.channel">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/java/prize/PosServerPipelineFactory.java" line="15" class="prize.PosServerPipelineFactory" package="prize">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
@@ -625,24 +748,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DBHelper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DBHelper.java">
+      <file leaf-file-name="PosServerPipelineFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/PosServerPipelineFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="21" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectConfigManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
+      <file leaf-file-name="PosClient.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state line="38" column="23" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.49183303">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NioServerBoss.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerBoss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="0" selection-start="3590" selection-end="3590" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -650,7 +778,25 @@
       <file leaf-file-name="PosServer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="33" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+            <state line="29" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageClientHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerBootstrap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/bootstrap/ServerBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="172" column="0" selection-start="6736" selection-end="6736" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -659,63 +805,39 @@
       <file leaf-file-name="NioServerSocketChannelFactory.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="0.0">
+            <state line="115" column="0" selection-start="5038" selection-end="5038" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="startup.bat" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/resources/script/startup.bat">
+      <file leaf-file-name="Bootstrap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/bootstrap/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prjcfg.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="7" selection-end="19" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logback.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/logback.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="24" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="T1001processor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="13" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TxnMainProcessor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+            <state line="248" column="0" selection-start="9981" selection-end="9981" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#757#773#0" expanded="false" />
+                <element signature="e#2032#2048#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageServerHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/prize/MessageServerHandler.java">
+      <file leaf-file-name="Channels.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/Channels.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="48" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
+            <state line="57" column="0" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#4000#4148#0" expanded="true" />
+                <element signature="e#4137#4138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultChannelPipeline.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/DefaultChannelPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="795" column="0" selection-start="25119" selection-end="25119" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -739,28 +861,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/java/prize/helper/PrjCfgManager.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/helper/PrjConfigManager.java" />
-        <option value="$PROJECT_DIR$/src/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java" />
-        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT1002Handler.java" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java" />
         <option value="$PROJECT_DIR$/src/java/prize/MessageDecoder.java" />
         <option value="$PROJECT_DIR$/src/java/prize/MessageEncoder.java" />
         <option value="$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java" />
-        <option value="$PROJECT_DIR$/src/resources/prjcfg.properties" />
         <option value="$PROJECT_DIR$/src/java/prize/helper/DBHelper.java" />
         <option value="$PROJECT_DIR$/src/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/src/resources/script/startup.bat" />
+        <option value="$PROJECT_DIR$/src/resources/prjcfg.properties" />
+        <option value="$PROJECT_DIR$/src/java/prize/MessageConfig.java" />
         <option value="$PROJECT_DIR$/src/java/prize/MessageServerHandler.java" />
         <option value="$PROJECT_DIR$/src/java/prize/PosServer.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientT2001Handler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/PosClientPipelineFactory.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/java/prize/client/PosClient.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -788,194 +912,14 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="ccbprize" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty-3.6.4.Final.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jboss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty-3.6.4.Final.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jboss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty-3.6.4.Final.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jboss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="socket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty-3.6.4.Final.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jboss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="channel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="socket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty-3.6.4.Final.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ccbprize" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1050,6 +994,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccbprize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prize" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -1078,8 +1074,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="prize.processor" />
       <recent name="prize.client" />
+      <recent name="prize.processor" />
       <recent name="prize.util" />
       <recent name="prize" />
       <recent name="prize.handler" />
@@ -1183,15 +1179,15 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="prize.PosServer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="reward" />
+      <module name="ccbprize" />
       <envs />
       <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Debug">
@@ -1317,7 +1313,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1325,26 +1321,26 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5186441" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34983498" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4108911" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32711864" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32673267" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26" sideWeight="0.48135594" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25987843" sideWeight="0.650165" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1414,124 +1410,127 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientT1001Handler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageDecoder.java">
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioSelector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="28" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="561" selection-end="567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/PosRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/jdbctemplate/JdbcTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0">
+        <state line="95" column="0" selection-start="3497" selection-end="3497" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#15344#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4390#4513#0" expanded="false" />
+            <element signature="e#4498#4499#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/ProjectConfigManager.java">
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioWorker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+        <state line="51" column="0" selection-start="1905" selection-end="1905" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1666" selection-end="1666" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="e#0#6140#0" expanded="false" />
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/helper/DBHelper.java">
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/AbstractNioWorkerPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/prjcfg.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="7" selection-end="19" vertical-scroll-proportion="0.0">
+        <state line="70" column="0" selection-start="2579" selection-end="2579" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.459/MyApp3.java">
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioWorkerPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/T1001processor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/processor/TxnMainProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#757#773#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/MessageServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="48" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="24" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="33" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerSocketChannelFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="11" selection-start="4870" selection-end="4870" vertical-scroll-proportion="0.0">
+        <state line="115" column="0" selection-start="5038" selection-end="5038" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/script/startup.bat">
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/bootstrap/ServerBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="172" column="0" selection-start="6736" selection-end="6736" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/bootstrap/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="248" column="0" selection-start="9981" selection-end="9981" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#2032#2048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="795" column="0" selection-start="25119" selection-end="25119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/Channels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#4000#4148#0" expanded="true" />
+            <element signature="e#4137#4138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/PosServerPipelineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="690" selection-end="690" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../lib/netty-3.6.4.Final-sources.jar!/org/jboss/netty/channel/socket/nio/NioServerBoss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="0" selection-start="3590" selection-end="3590" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/MessageClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/prize/client/PosClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="23" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.49183303">
           <folding />
         </state>
       </provider>
